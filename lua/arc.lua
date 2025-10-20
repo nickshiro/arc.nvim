@@ -63,10 +63,22 @@ local highlights = {
     ["@punctuation.special"] = { fg = colors.yellow },
     ["@punctuation.bracket"] = { fg = colors.gray },
 
-    ["Delimiter"] = { fg = colors.gray },
-    ["Special"] = { fg = colors.gray },
+    ["Tag"] = { fg = colors.blue },
+    ["@markup"] = { fg = colors.yellow },
+    ["@markup.heading"] = { fg = colors.yellow },
+    ["@markup.link"] = { fg = colors.gray },
+    ["@markup.link.label"] = { fg = colors.green },
+    ["@markup.link.url"] = { fg = colors.turquoise },
+    ["@markup.strong"] = { fg = colors.red },
+
+    ["@label.markdown"] = { fg = colors.purple },
 
     ["Comment"] = { fg = colors.gray },
+
+    ["@spell"] = { fg = colors.white },
+
+    ["Delimiter"] = { fg = colors.gray },
+    ["Special"] = { fg = colors.gray },
 
 
 
