@@ -71,11 +71,11 @@ local highlights = {
     ["@markup.link.url"] = { fg = colors.turquoise },
     ["@markup.strong"] = { fg = colors.red },
 
-    ["@label.markdown"] = { fg = colors.purple },
-
     ["Comment"] = { fg = colors.gray },
+    ["@comment"] = { fg = colors.gray },
+    ["@spell.markdown"] = { fg = colors.white },
 
-    ["@spell"] = { fg = colors.white },
+    ["@label.markdown"] = { fg = colors.purple },
 
     ["Delimiter"] = { fg = colors.gray },
     ["Special"] = { fg = colors.gray },
