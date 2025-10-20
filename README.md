@@ -2,7 +2,7 @@
     <h2 align="center">Arc for Neovim</h2>
 </p>
 
-<p align="center">Neovim theme based on logic for increasing code reading speed.</p>
+<p align="center">Colourful neovim theme based on logic for increasing code reading speed.</p>
 
 ## Getting started
 
@@ -19,7 +19,7 @@ Install `nickshiro/arc.nvim` using your favourite package manager:
 **Structured Setup**
 
 ```lua
--- lua/plugins/arc_nvim.lua
+-- lua/plugins/arc.lua
 return {
 	"nickshiro/arc.nvim",
 	name = "arc",
@@ -39,8 +39,8 @@ return {
 
 If a plugin is not listed, it does not necessarily mean that it is not supported.
 
-[Indent Blankline](https://github.com/lukas-reineke/indent-blankline.nvim) 
-[NeoTree](https://github.com/nvim-neo-tree/neo-tree.nvim)
+- [Indent Blankline](https://github.com/lukas-reineke/indent-blankline.nvim) 
+- [NeoTree](https://github.com/nvim-neo-tree/neo-tree.nvim)
 
 ## Galery
 
