@@ -50,6 +50,7 @@ local highlights = {
 
     ["@method"] = { fg = colors.blue },
     ["@string"] = { fg = colors.green },
+    ["@string.special"] = { fg = colors.red },
     ["@constant"] = { fg = colors.light_green },
     ["@constant.builtin"] = { fg = colors.orange },
 
