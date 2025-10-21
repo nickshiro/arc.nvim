@@ -41,6 +41,7 @@ local highlights = {
     ["@keyword.function"] = { fg = colors.turquoise },
 
     ["Function"] = { fg = colors.blue },
+    ["@function.builtin"] = { fg = colors.blue },
     ["@constructor"] = { fg = colors.blue },
 
     ["@variable"] = { fg = colors.red },
