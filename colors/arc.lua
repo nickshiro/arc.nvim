@@ -1,2 +1,2 @@
-package.loaded["arc"] = nil
-require "arc".colorscheme()
+-- package.loaded["arc"] = nil
+require("arc").colorscheme()
