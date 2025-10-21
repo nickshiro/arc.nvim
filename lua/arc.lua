@@ -58,6 +58,8 @@ local highlights = {
     ["Type"] = { fg = colors.violet },
     ["@type.builtin"] = { fg = colors.violet },
     ["@lsp.type.namespace"] = { fg = colors.blue },
+
+    ["@property"] = { fg = colors.white },
     ["@lsp.type.property"] = { fg = colors.white },
 
     ["Operator"] = { fg = colors.yellow },
