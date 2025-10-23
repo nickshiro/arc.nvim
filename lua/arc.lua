@@ -71,6 +71,7 @@ local highlights = {
 	["@constructor.lua"] = { fg = colors.gray },
 
 	["Tag"] = { fg = colors.blue },
+	["@tag.builtin"] = { fg = colors.blue },
 	["@markup"] = { fg = colors.yellow },
 	["@markup.heading"] = { fg = colors.yellow },
 	["@markup.link"] = { fg = colors.gray },
